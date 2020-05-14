@@ -1,0 +1,4 @@
+web_project/__pycache__/*.cpython-37.pyc
+# *: .pyc 확장자 파일 전체포함하여 .gitignore에 저장(github에 올라가지 않는 파일들 저장)
+**/*.pyc
+# 다른 디렉토리에 있는 pyc파일도 gitignore에 저장
